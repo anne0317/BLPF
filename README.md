@@ -1,11 +1,11 @@
 # Butterworth Lowpass Filter Design
 The following represents the design of a Butterworth lowpass filter using MATLAB/Octave. This filter design is based on the given specifications:
 
-Passband ripple: alphap = 4 dB
-Stopband attenuation: alphas = 30 dB
-Passband edge frequency: fp = 800 Hz
-Stopband edge frequency: fs = 400 Hz
-Sampling frequency: f = 5500 Hz
+* Passband ripple: alphap = 4 dB
+* Stopband attenuation: alphas = 30 dB
+* Passband edge frequency: fp = 800 Hz
+* Stopband edge frequency: fs = 400 Hz
+* Sampling frequency: f = 5500 Hz
 
 The code begins by clearing the workspace and closing all open figures. It then defines the filter specifications, including the passband ripple (alphap), stopband attenuation (alphas), passband edge frequency (fp), stopband edge frequency (fs), and sampling frequency (f).
 
